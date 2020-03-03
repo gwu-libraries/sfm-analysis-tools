@@ -1,4 +1,5 @@
-# `getmediaurls.sh` - Download all media files from an SFM CSV Twitter extract file
+# `getmediaurls.sh`
+## Download all media files from an SFM CSV Twitter extract file
 
 ## Mac Installation and Usage
 
